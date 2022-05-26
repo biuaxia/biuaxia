@@ -12,39 +12,27 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
+      <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
+      <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
+      <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
+      <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
+      <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
+      <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
   </tr>
