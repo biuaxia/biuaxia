@@ -48,5 +48,5 @@
 
 ## 🌎 联系我
 
-- 微信(Wechat): **biuaxia**📹 ✍🏾
+- 微信(Wechat): **biuaxia** 📹
 - 博客(blog): **[biuaxia](https://www.biuaxia.cn/)** 🍭
