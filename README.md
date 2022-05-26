@@ -4,7 +4,7 @@
 
 > 工具、语言和其它我喜欢使用的东西。
 
-- :office: &nbsp;目前就职于 **[成都铂恩科技有限公司](201904-至今)**
+- :office: &nbsp;目前就职于 **[成都铂恩科技有限公司]\(201904-至今\)**
 - :seedling: &nbsp;我目前正在学习 **Go**
 - :speech_balloon: &nbsp;我喜欢活跃在 **虎绿林** 和 **V2ex** 等论坛
 - :mailbox: &nbsp;请投递到 **[biuaxia@qq.com](mailto:biuaxia@qq.com)**
