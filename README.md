@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: 你好，我是 <a href="https://www.biuaxia.cn/" target="_blank">biuaxia</a></h1>
 
-<h2 align="left" id="macropower-tech">效率工具</h2>
+## ⚡ 效率工具
 
 > 工具、语言和其它我喜欢使用的东西。
 
