@@ -1,38 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
-
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-  </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://reddit.com/u/macropower">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
-
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
-
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-
-<br>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm <a href="https://www.biuaxia.cn/" target="_blank">biuaxia</a></h1>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
@@ -153,24 +119,15 @@
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
+## ⚡ Tec Stacks
 
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuaxia&theme=cobalt2&show_icons=true)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=biuaxia&show_icons=true&theme=tokyonight)
+<p align='left'>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biuaxia&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
+</p>
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+## 🌎 Find me
 
-```
-
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+- wechat Official Account: search **biuaxia**📹 ✍🏾
+- blog: click [biuaxia](https://www.biuaxia.cn/) 🍭
